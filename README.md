@@ -11,3 +11,5 @@ This is TCV rocketry flight computer
 
 ![image](https://user-images.githubusercontent.com/114358863/228625542-4a604663-deae-479f-a16a-000b9121d37b.png)
 
+
+![image](https://user-images.githubusercontent.com/114358863/228625690-86181987-690b-4276-82c6-36ccd375a947.png)
