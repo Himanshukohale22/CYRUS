@@ -1,4 +1,4 @@
-# CYRUS
+# Thrust Vector Cotrolled
 This is TCV rocketry flight computer
 
 
