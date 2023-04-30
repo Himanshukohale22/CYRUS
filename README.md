@@ -33,8 +33,14 @@ ROPCKET TRUST VECTONING :
 
 PCB:
 schematics:
+main sheet
 
-![image](https://user-images.githubusercontent.com/114358863/228625339-4cfda51d-0b30-43d8-ae76-43d06488084f.png)
+![image](https://user-images.githubusercontent.com/114358863/235372734-b6e45243-743a-45ab-8b5c-507768e8c4f7.png)
+
+extra sheet
+
+![image](https://user-images.githubusercontent.com/114358863/235372747-855d1a0d-e5c7-4e42-acaa-9c87ecd98d7d.png)
+
 
 pcb layout:
 
