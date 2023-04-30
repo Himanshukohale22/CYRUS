@@ -42,10 +42,13 @@ pcb layout:
 
 3D:
 FRONT SIDE 
-![image](https://user-images.githubusercontent.com/114358863/228625690-86181987-690b-4276-82c6-36ccd375a947.png)
+
+![image](https://user-images.githubusercontent.com/114358863/235372622-71f211ad-3e45-4487-85d1-97b95f593181.png)
 
 BACK SIDE
-![image](https://user-images.githubusercontent.com/114358863/235372517-56dcb0aa-3133-4349-9160-b807cb051c3c.png)
+
+![image](https://user-images.githubusercontent.com/114358863/235372632-ec3192f5-4df8-441e-aa87-60b0faa5809b.png)
+
 
 
 
