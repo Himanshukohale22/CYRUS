@@ -1,4 +1,4 @@
-# Thrust Vector Cotrol
+# Thrust Vector Control
 This is TCV rocketry flight computer
 
 
