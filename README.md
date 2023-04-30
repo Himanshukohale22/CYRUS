@@ -7,8 +7,44 @@ TCV rocketry
 This repository contains hardware design and code for TVC model rocketry.
 
 
-SPECIFICATION:
+SPECIFICATION OF TVC FLIGHT COMPUTER:
 
+- Small form fator of 8*5cm flight computer
+
+- ON BOARD Controller 
+
+Core: ARM
+®32-bit Cortex
+®M4 CPU with FPU, Adaptive real-time accelerator (ART
+Accelerator™) allowing 0-wait state execution
+from Flash memory, frequency up to 100 MHz, memory protection unit, and DSP instructions
+Memories
+Up to 512 Kbytes of Flash memory
+128 Kbytes of SRAM
+Clock, reset and supply management
+1.7 V to 3.6 V application supply and I/Os
+POR, PDR, PVD and BOR
+4-to-26 MHz crystal oscillator
+Internal 16 MHz factory-trimmed RC
+32 kHz oscillator for RTC with calibration
+Internal 32 kHz RC with calibration
+
+- SENSORS:
+
+ >mpu6050: inertial mesurment unit
+
+ accelerometer specs
+
+ Digital-output  triple-axis  accelerometer  with  a  programmable  full  scale  rangeof ±2g, ±4g,  ±8gand ±16g. 6-axis (DOF) accelerometer 
+
+ gyroscope
+ Digital-output  X-,  Y-,  and  Z-Axis  angular  rate  sensors  (gyroscopes)  with  a user-programmable  full-scale range of ±250, ±500, ±1000, and ±2000°/sec
+
+>bmp280: pressure and altitude unit
+
+BOARD POWER SUPPLY
+
+external power supply with lipo 12v battery
 
 
 
