@@ -1,34 +1,21 @@
 # Thrust Vector Control
-This is TCV rocketry flight computer
+TCV rocketry 
+
+![image](https://user-images.githubusercontent.com/114358863/235373234-06cd2e86-50fa-4c70-94b3-b0c7fce61e10.png)
 
 
-TVC roketry is thrust vectoring controll rocket design.
-By the help of cad design and some best electronics selection,
-TCV rocket can be made.
-In this cyrus computer the on board computer is stm32f4 series microcontroller which has 100MHz operating frequency.
-for fast and crusial data collection , controlling pyro cannels and thurst vestors motors.
-with the help of baromatric sensor (bmp280) , inertial mesurment unit (mpu6050) , and RF module (nrf24).
-
-Specification:
-On board chip of controller is STM32F4XC high performance microcontroller.
-Board contains gyroscope and accelorometer for flight controlling and PID motion.
-A pressure/altitude sensor is present on the board.
-Two pyro channels are present on board for parachute deployment in regular mode and other in emergency  mode.
+This repository contains hardware design and code for TVC model rocketry.
 
 
-Hardware design:
-STM32F411xc main controller.
-mpu6050 gyroscope and accelorometer sensor.
-bmp280 pressure and altitude sensor.
-irfz44n n-channel MOSFET for pyro channels.
-Inbuilt SD card module.
-nrf24 RF module for on board communicaton between base station and flight ROCEKT.
+SPECIFICATION:
 
-ROPCKET TRUST VECTONING :
 
+
+
+
+ROCKET TRUST VECTONING :
 
 ![image](https://user-images.githubusercontent.com/114358863/234672675-fe9574e3-3684-47cb-9889-756ffe2bad4f.png)
-
 
 
 PCB:
