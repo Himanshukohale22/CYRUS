@@ -1,6 +1,6 @@
-# Thrust Vector Control
-TCV rocketry 
---
+# *Thrust Vector Control Rockets* 
+---
+
 ![67b2a9ba5e85822f237caae92111e938](https://github.com/Himanshukohale22/CYRUS/assets/114358863/dfa94541-3bb5-4649-9c6f-fd42d23f7af1)
 
 This repository contains hardware files,speciifcation of board,firmware/software parts of TVC Rocketry.
@@ -8,54 +8,32 @@ This repository contains hardware files,speciifcation of board,firmware/software
 
 
 SPECIFICATION OF TVC FLIGHT COMPUTER:
+--
+* small flight computer board 8.2*5 cm .
+* stm32f4xc on board micro-controller 
+  *   ARM ®32-bit Cortex ®M4 CPU with FPU
+  *   Adaptive real-time accelerator allowing 0-wait state execution
+  *   Up to 512 Kbytes of Flash memory 128 Kbytes of SRAM
+  *   operating frequency of 100MHz.
 
-- Small form fator of 8*5cm flight computer
+* on board power supply 
+  * usb b micro (mobile charger).
+  *  exteral JSt connector (12v battery).
+* sensors 
+  * barometer (BMP280).
+  * gyroscope & accelerometer (MPU6050). 
+  * sd card 
+  * rf (NRF24L)
 
-- ON BOARD Controller 
+* Digital-output triple-axis accelerometer  
+* a programmable full scale rangeof ±2g,±4g,±8g and ±16g. 6-axis (DOF)accelerometer 
+* gyroscop Digital-output  X-,  Y-, z-axis
+* angular rate sensors with user-programmable full-scale range of ±250, ±500, ±1000, and ±2000°/sec.
+* bmp280: pressure and altitude unit
 
-Core: ARM
-®32-bit Cortex
-®M4 CPU with FPU, Adaptive real-time accelerator (ART
-Accelerator™) allowing 0-wait state execution
-from Flash memory, frequency up to 100 MHz, memory protection unit, and DSP instructions
-Memories
-Up to 512 Kbytes of Flash memory
-128 Kbytes of SRAM
-Clock, reset and supply management
-1.7 V to 3.6 V application supply and I/Os
-POR, PDR, PVD and BOR
-4-to-26 MHz crystal oscillator
-Internal 16 MHz factory-trimmed RC
-32 kHz oscillator for RTC with calibration
-Internal 32 kHz RC with calibration
+Schematics 
+--
 
-- SENSORS:
-
- >mpu6050: inertial mesurment unit
-
- accelerometer specs
-
- Digital-output  triple-axis  accelerometer  with  a  programmable  full  scale  rangeof ±2g, ±4g,  ±8gand ±16g. 6-axis (DOF) accelerometer 
-
- gyroscope
- Digital-output  X-,  Y-,  and  Z-Axis  angular  rate  sensors  (gyroscopes)  with  a user-programmable  full-scale range of ±250, ±500, ±1000, and ±2000°/sec
-
->bmp280: pressure and altitude unit
-
-BOARD POWER SUPPLY
-
-external power supply with lipo 12v battery
-
-
-
-
-ROCKET TRUST VECTONING :
-
-![image](https://user-images.githubusercontent.com/114358863/234672675-fe9574e3-3684-47cb-9889-756ffe2bad4f.png)
-
-
-PCB:
-schematics:
 main sheet
 
 ![image](https://user-images.githubusercontent.com/114358863/235372734-b6e45243-743a-45ab-8b5c-507768e8c4f7.png)
@@ -65,18 +43,13 @@ extra sheet
 ![image](https://user-images.githubusercontent.com/114358863/235372747-855d1a0d-e5c7-4e42-acaa-9c87ecd98d7d.png)
 
 
-pcb layout:
-
-![image](https://user-images.githubusercontent.com/114358863/228625542-4a604663-deae-479f-a16a-000b9121d37b.png)
-
-3D:
 FRONT SIDE 
 
-![image](https://user-images.githubusercontent.com/114358863/235372622-71f211ad-3e45-4487-85d1-97b95f593181.png)
+![Annotation 2023-05-10 005105](https://github.com/Himanshukohale22/CYRUS/assets/114358863/7027e85a-7e39-4c4d-8662-5243c76c4fda)
 
 BACK SIDE
 
-![image](https://user-images.githubusercontent.com/114358863/235372632-ec3192f5-4df8-441e-aa87-60b0faa5809b.png)
+![Annotation 2023-05-10 005200](https://github.com/Himanshukohale22/CYRUS/assets/114358863/19e55434-8de7-4ab1-9373-bb3291f6b322)
 
 
 PROTOTYPE:
