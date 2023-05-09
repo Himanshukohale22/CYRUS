@@ -1,10 +1,10 @@
 # Thrust Vector Control
 TCV rocketry 
+--
+![67b2a9ba5e85822f237caae92111e938](https://github.com/Himanshukohale22/CYRUS/assets/114358863/dfa94541-3bb5-4649-9c6f-fd42d23f7af1)
 
-![image](https://user-images.githubusercontent.com/114358863/235373234-06cd2e86-50fa-4c70-94b3-b0c7fce61e10.png)
+This repository contains hardware files,speciifcation of board,firmware/software parts of TVC Rocketry.
 
-
-This repository contains hardware design and code for TVC model rocketry.
 
 
 SPECIFICATION OF TVC FLIGHT COMPUTER:
