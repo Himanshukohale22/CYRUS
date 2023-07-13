@@ -82,6 +82,12 @@ TOOLS & REFERENCE:
 > [NRFZ44N](https://pdf1.alldatasheet.com/datasheet-pdf/view/17807/PHILIPS/IRFZ44N.html)
 
 
+FUTURE WORK:
+---
 
-
+* High speed on board microcontroller.
+* High precision and accuracy IMU and BAROMETER 
+* NRF modules update.
+* Testing tools.
+* stabilizer servo module.
 
