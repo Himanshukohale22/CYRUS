@@ -8,7 +8,7 @@ This repository contains hardware files,speciifcation of board,firmware/software
 
 
 SPECIFICATION OF TVC FLIGHT COMPUTER:
---
+---
 * small flight computer board 8.2*5 cm .
 * stm32f4xc on board micro-controller 
   *   ARM ®32-bit Cortex ®M4 CPU with FPU
@@ -32,7 +32,7 @@ SPECIFICATION OF TVC FLIGHT COMPUTER:
 * bmp280: pressure and altitude unit
 
 Schematics 
---
+---
 
 main sheet
 
@@ -44,7 +44,7 @@ extra sheet
 
 
 FRONT SIDE 
-
+---
 ![Annotation 2023-05-10 005105](https://github.com/Himanshukohale22/CYRUS/assets/114358863/7027e85a-7e39-4c4d-8662-5243c76c4fda)
 
 BACK SIDE
@@ -53,17 +53,17 @@ BACK SIDE
 
 
 PROTOTYPE:
-
+---
 ![image](https://user-images.githubusercontent.com/114358863/235375112-aaeffe35-05db-4942-b74b-6dc5b5e7b0a1.png)
 
 
 
 simulator/manufacturing :
-
+---
 ![image](https://user-images.githubusercontent.com/114358863/235372801-556c1896-745d-46e7-9928-b742bed9c596.png)
 
 TOOLS & REFERENCE:
-
+---
 > [kicad](https://www.kicad.org/)
 
 > [stm32cubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
