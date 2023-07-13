@@ -62,34 +62,24 @@ simulator/manufacturing :
 
 ![image](https://user-images.githubusercontent.com/114358863/235372801-556c1896-745d-46e7-9928-b742bed9c596.png)
 
+TOOLS & REFERENCE:
 
-DEVELOPER TOOLS:
+> [kicad](https://www.kicad.org/)
 
->kicad :
-https://www.kicad.org/
+> [stm32cubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
 
->stm32cubeIDE:
-https://www.st.com/en/development-tools/stm32cubeide.html
 
-DATASHEETS:
+> [stm32f411](https://www.st.com/resource/en/datasheet/stm32f411re.pdf)
 
->stm32f411:
-https://www.st.com/resource/en/datasheet/stm32f411re.pdf
+> [MPU6050](https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Datasheet1.pdf)
 
->MPU6050:
-https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Datasheet1.pdf
+> [BMP280](https://cdn-shop.adafruit.com/datasheets/BST-BMP280-DS001-11.pdf)
 
->BMP280:
-https://cdn-shop.adafruit.com/datasheets/BST-BMP280-DS001-11.pdf
+> [NRF24](https://www.sparkfun.com/datasheets/Components/SMD/nRF24L01Pluss_Preliminary_Product_Specification_v1_0.pdf)
 
->NRF24:
-https://www.sparkfun.com/datasheets/Components/SMD/nRF24L01Pluss_Preliminary_Product_Specification_v1_0.pdf
+> [BUILTIN MICRO SD CARD](https://components101.com/modules/micro-sd-card-module-pinout-features-datasheet-alternatives)
 
->BUILTIN MICRO SD CARD:
-https://components101.com/modules/micro-sd-card-module-pinout-features-datasheet-alternatives
-
->NRFZ44N:
-https://pdf1.alldatasheet.com/datasheet-pdf/view/17807/PHILIPS/IRFZ44N.html
+> [NRFZ44N](https://pdf1.alldatasheet.com/datasheet-pdf/view/17807/PHILIPS/IRFZ44N.html)
 
 
 
