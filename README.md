@@ -85,7 +85,7 @@ TOOLS & REFERENCE:
 FUTURE WORK:
 ---
 
-* High speed on board microcontroller.
+* High speed on board microcontroller (f7,f8)
 * High precision and accuracy IMU and BAROMETER 
 * NRF modules update.
 * Testing tools.
