@@ -27,9 +27,9 @@ SPECIFICATION OF TVC FLIGHT COMPUTER:
 
 * Digital-output triple-axis accelerometer  
 * A programmable full scale rangeof ±2g,±4g,±8g and ±16g. 6-axis (DOF)accelerometer 
-* gyroscop Digital-output  X-,  Y-, z-axis
-* angular rate sensors with user-programmable full-scale range of ±250, ±500, ±1000, and ±2000°/sec.
-* bmp280: pressure and altitude unit
+* Gyroscop Digital-output  X-,  Y-, z-axis
+* Angular rate sensors with user-programmable full-scale range of ±250, ±500, ±1000, and ±2000°/sec.
+* BMP280: pressure and altitude unit
 
 Schematics 
 ---
