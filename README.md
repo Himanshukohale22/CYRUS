@@ -16,17 +16,17 @@ SPECIFICATION OF TVC FLIGHT COMPUTER:
   *   Up to 512 Kbytes of Flash memory 128 Kbytes of SRAM
   *   operating frequency of 100MHz.
 
-* on board power supply 
+* Board power supply 
   * usb b micro (mobile charger).
   *  exteral JSt connector (12v battery).
-* sensors 
+* Sensors 
   * barometer (BMP280).
   * gyroscope & accelerometer (MPU6050). 
   * sd card 
   * rf (NRF24L)
 
 * Digital-output triple-axis accelerometer  
-* a programmable full scale rangeof ±2g,±4g,±8g and ±16g. 6-axis (DOF)accelerometer 
+* A programmable full scale rangeof ±2g,±4g,±8g and ±16g. 6-axis (DOF)accelerometer 
 * gyroscop Digital-output  X-,  Y-, z-axis
 * angular rate sensors with user-programmable full-scale range of ±250, ±500, ±1000, and ±2000°/sec.
 * bmp280: pressure and altitude unit
