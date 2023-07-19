@@ -1,4 +1,4 @@
-# *Thrust Vector Control Rockets* 
+# Thrust Vector Control Rockets
 ---
 
 ![67b2a9ba5e85822f237caae92111e938](https://github.com/Himanshukohale22/CYRUS/assets/114358863/dfa94541-3bb5-4649-9c6f-fd42d23f7af1)
