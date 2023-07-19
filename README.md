@@ -3,7 +3,7 @@
 
 ![67b2a9ba5e85822f237caae92111e938](https://github.com/Himanshukohale22/CYRUS/assets/114358863/dfa94541-3bb5-4649-9c6f-fd42d23f7af1)
 
-This repository contains hardware files,speciifcation of board,firmware/software parts of TVC Rocketry.
+This repository contains hardware files,specifcation of board,firmware/software of Thrust vector control model Rocketry. this project is open source can be used as and update as required.
 
 
 
@@ -11,7 +11,7 @@ SPECIFICATION OF TVC FLIGHT COMPUTER:
 ---
 * small flight computer board 8.2*5 cm .
 * stm32f4xc on board micro-controller 
-  *   ARM ®32-bit Cortex ®M4 CPU with FPU
+  *   ARM ®32-bit Cortex M4 CPU with FPU
   *   Adaptive real-time accelerator allowing 0-wait state execution
   *   Up to 512 Kbytes of Flash memory 128 Kbytes of SRAM
   *   operating frequency of 100MHz.
@@ -87,7 +87,6 @@ FUTURE WORK:
 
 * High speed on board microcontroller (f7,f8)
 * High precision and accuracy IMU and BAROMETER 
-* NRF modules update.
-* Testing tools.
-* stabilizer servo module.
+* communication update.
+* stabilizer servo module (3D printed files).
 
