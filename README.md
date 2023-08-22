@@ -45,11 +45,13 @@ extra sheet
 
 FRONT SIDE 
 ---
-![Annotation 2023-05-10 005105](https://github.com/Himanshukohale22/CYRUS/assets/114358863/7027e85a-7e39-4c4d-8662-5243c76c4fda)
+![image](https://github.com/Himanshukohale22/CYRUS/assets/114358863/b4e1ef82-0d86-4b02-8e4f-b57a524948b9)
+
 
 BACK SIDE
 
-![Annotation 2023-05-10 005200](https://github.com/Himanshukohale22/CYRUS/assets/114358863/19e55434-8de7-4ab1-9373-bb3291f6b322)
+![image](https://github.com/Himanshukohale22/CYRUS/assets/114358863/00824bd3-933a-464c-9986-d20986c205c6)
+
 
 
 PROTOTYPE:
